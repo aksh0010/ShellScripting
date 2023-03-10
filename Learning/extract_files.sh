@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+#This program unzipps all files in the current working dir and stores them in the new folder
 
 mkdir extracted
 
